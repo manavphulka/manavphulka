@@ -30,7 +30,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,git,github,vscode,figma" />
 </p>
 
----
+<!---
 
 ## 📈 Stats & Activity
 
@@ -40,6 +40,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manavphulka&theme=tokyonight" height="160"/>
 </p>
 
+--->
 ---
 
 ## 🏆 Featured Projects
