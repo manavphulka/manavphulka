@@ -16,12 +16,10 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
 
-- 🔭 Currently working on: **AI-powered projects & open source tools**
-- 🎓 Student at: **[Your School/College/University]**
+<!-- - 🔭 Currently working on: **AI-powered projects & open source tools** -->
 - 🧑‍💻 Tech Stack: `JavaScript` `TypeScript` `React` `Node.js` `Python`
-- 🌱 Learning: **Cloud-native, DevOps, Next.js**
-- 📝 Writing about: **Web Dev, OSS, Tech Trends**
-- 💬 Ask me about: **Web dev, open source, productivity hacks**
+- 🌱 Learning: **AI/ML, Webdev**
+- 💬 Ask me about: **Web dev, AI , productivity hacks**
 - ⚡ Fun fact: I can solve a Rubik’s Cube in under a minute!
 
 ---
@@ -49,7 +47,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [Portfolio](https://github.com/manavphulka/portfolio) | Personal portfolio website | Next.js, Tailwind |
-| [Awesome Open Source](https://github.com/manavphulka/awesome-opensource) | Curated OSS resources | Markdown |
+| [Python-mini-projects](https://github.com/manavphulka/python-mini-projects) | Python | Markdown |
 | [AI Blog Writer](https://github.com/manavphulka/ai-blog-writer) | AI-based blog generator | Node.js, OpenAI |
 
 ---
@@ -58,9 +56,9 @@
 
 <p align="center">
   <a href="https://manavphulka.com"><img src="https://skillicons.dev/icons?i=web" height="32"/></a>
-  <a href="https://twitter.com/manavphulka"><img src="https://skillicons.dev/icons?i=twitter" height="32"/></a>
+  <a href="https://twitter.com/manavsidhhu"><img src="https://skillicons.dev/icons?i=twitter" height="32"/></a>
   <a href="https://linkedin.com/in/manavphulka"><img src="https://skillicons.dev/icons?i=linkedin" height="32"/></a>
-  <a href="mailto:manavphulka@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="32"/></a>
+  <a href="mailto:sidhuofficial6@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="32"/></a>
 </p>
 
 ---
