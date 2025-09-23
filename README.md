@@ -1,69 +1,48 @@
-<!-- Animated Banner (optional, replace with your own GIF or SVG for best effect) -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F77F00&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Manav+Phulka+%F0%9F%91%8B;Passionate+Developer+%7C+Open+Source+Enthusiast;Building+cool+things+with+code!" alt="Typing SVG" />
-</p>
+<!--
+  Terminal-style, hacker-themed README.
+  For best effect, view with a dark theme.
+-->
 
 <p align="center">
-  <a href="https://manavphulka.com"><img src="https://img.shields.io/badge/Website-222?style=for-the-badge&logo=About.me&logoColor=white"></a>
-  <a href="https://twitter.com/manavphulka"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://linkedin.com/in/manavphulka"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:manavphulka@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=650&height=40&lines=manavphulka@github:~%24+neofetch" alt="Typing SVG" />
 </p>
 
----
+<pre>
+<span style="color:#39FF14">
+            .---.        .-----------
+           /     \  __  /    ------
+          / /     \(  )/    -----
+         //////   ' \/ `   ---
+        //// / // :    : ---
+       // /   /  /`    '--
+      //          //..\\
+             ====UU====UU====
+                 '//||\\`
+                   ''``
+</span>
+<span style="color:#FFFF00">OS</span>: <span style="color:#39FF14">Kali (wannabe)</span>
+<span style="color:#FFFF00">User</span>: <span style="color:#39FF14">manavphulka</span>
+<span style="color:#FFFF00">Role</span>: <span style="color:#39FF14">Ethical Hacker | Bug Bounty Hunter | Pentester</span>
+<span style="color:#FFFF00">Shell</span>: <span style="color:#39FF14">/bin/bash</span>
+<span style="color:#FFFF00">Certs</span>: <span style="color:#39FF14">(in progress) OSCP, CEH, PNPT</span>
 
-## 🙋‍♂️ About Me
+<span style="color:#444">-----------------------</span>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
+<span style="color:#39FF14">[+]</span> Bug Bounty Hunter & Pentester  
+<span style="color:#39FF14">[+]</span> Heavy on <span style="color:#FFFF00">CTFs</span> and responsible disclosure  
+<span style="color:#39FF14">[+]</span> Tools: Python, Bash, Burp Suite, Nmap, Metasploit, Wireshark, ...  
+<span style="color:#39FF14">[+]</span> Recon & exploitation are my playground  
+<span style="color:#39FF14">[+]</span> Projects? <span style="color:#FF00FF">Coming soon.</span>
 
-<!-- - 🔭 Currently working on: **AI-powered projects & open source tools** -->
-- 🧑‍💻 Tech Stack: `JavaScript` `TypeScript` `React` `Node.js` `Python`
-- 🌱 Learning: **AI/ML, Webdev**
-- 💬 Ask me about: **Web dev, AI , productivity hacks**
-- ⚡ Fun fact: I can solve a Rubik’s Cube in under a minute!
+<span style="color:#444">-----------------------</span>
 
----
+<span style="color:#FF00FF">&gt; "The quieter you become, the more you are able to hear."</span>
 
-## 🚀 Tech Toolbox
+<span style="color:#39FF14">manavphulka@github:~$ _</span>
+</pre>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,git,github,vscode,figma" />
-</p>
-
-<!---
-
-## 📈 Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manavphulka&show_icons=true&theme=tokyonight&hide_title=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=manavphulka&theme=tokyonight" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manavphulka&theme=tokyonight" height="160"/>
-</p>
-
---->
----
-
-## 🏆 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [Portfolio](https://github.com/manavphulka/portfolio) | Personal portfolio website | Next.js, Tailwind |
-| [Python-mini-projects](https://github.com/manavphulka/python-mini-projects) | Python | Markdown |
-| [AI Blog Writer](https://github.com/manavphulka/ai-blog-writer) | AI-based blog generator | Node.js, OpenAI |
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://manavphulka.com"><img src="https://skillicons.dev/icons?i=web" height="32"/></a>
-  <a href="https://twitter.com/manavsidhhu"><img src="https://skillicons.dev/icons?i=twitter" height="32"/></a>
-  <a href="https://linkedin.com/in/manavphulka"><img src="https://skillicons.dev/icons?i=linkedin" height="32"/></a>
-  <a href="mailto:sidhuofficial6@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="32"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F77F00&center=true&vCenter=true&width=480&lines=“Code+is+like+humor.+When+you+have+to+explain+it%2C+it’s+bad.”" alt="Quote" />
-</p>
+<!--
+  Note: GitHub markdown doesn't support ANSI/HTML color in <pre>.
+  The above uses HTML color spans for best theme-compatibility.
+  For animated "hacker terminal" GIFs, use a tool like terminalizer.
+-->
